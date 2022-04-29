@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\WINTER 2022\Java Programming\Midterm\.metadata\.plugins\org.eclipse.jdt.core
+1036711445.index
+1865797976.index
+2294502774.index
